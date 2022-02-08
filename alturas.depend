@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640634118 source:c:\users\amd\documents\projetos\linguagem c++\alturas\main.cpp
+	<iostream>
+	<climits>
+	<iomanip>
+
